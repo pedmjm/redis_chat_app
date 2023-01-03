@@ -13,7 +13,7 @@ Flask-Cors==3.0.10
 Flask-Session==0.3.2
 Flask-SocketIO==5.0.1
 greenlet==2.0.1 
-gunicorn==20.0.4
+gunicorn
 isort==5.7.0
 itsdangerous==1.1.0
 Jinja2==2.11.2
