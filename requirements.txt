@@ -6,7 +6,7 @@ cachelib==0.1.1
 cffi==1.14.4
 click==7.1.2
 colorama==0.4.4
-dnspython==1.16.0
+dnspython==2.2.1
 eventlet==0.33.2 
 Flask==1.1.2
 Flask-Cors==3.0.10
